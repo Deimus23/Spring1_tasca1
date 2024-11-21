@@ -20,4 +20,7 @@ public abstract class Instrument {
     public void setPrice(int price) {
         this.price = price;
     }
+    static{
+        System.out.println("Acces to satatic class");
+    }
 }
