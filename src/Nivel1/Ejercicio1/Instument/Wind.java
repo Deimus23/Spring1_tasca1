@@ -1,4 +1,4 @@
-package nivel1.ejercicio1.Instument;
+package Nivel1.Ejercicio1.Instument;
 
 public class Wind extends Instrument {
     public Wind(String name, int price){

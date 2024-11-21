@@ -1,8 +1,8 @@
-package nivel1.ejercicio1.main;
+package Nivel1.Ejercicio1.Main;
 
-import nivel1.ejercicio1.Instument.Percussion;
-import nivel1.ejercicio1.Instument.StringInstrument;
-import nivel1.ejercicio1.Instument.Wind;
+import Nivel1.Ejercicio1.Instument.Percussion;
+import Nivel1.Ejercicio1.Instument.StringInstrument;
+import Nivel1.Ejercicio1.Instument.Wind;
 
 public class Main {
     public static void main(String[] args) {

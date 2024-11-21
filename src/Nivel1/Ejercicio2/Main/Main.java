@@ -1,8 +1,8 @@
-package nivel1.ejercicio2.main;
+package Nivel1.Ejercicio2.Main;
 
-import nivel1.ejercicio2.Car.Car;
+import Nivel1.Ejercicio2.Car.Car;
 
-public class main {
+public class Main {
 
     public static void main(String[]args) {
         Car car = new Car("yaris", 125);
