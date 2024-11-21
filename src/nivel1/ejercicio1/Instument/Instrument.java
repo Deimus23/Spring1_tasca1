@@ -1,4 +1,4 @@
-package ejercicio1_nivel1.Instument;
+package nivel1.ejercicio1.Instument;
 public abstract class Instrument {
     private String name;
     private int price;
